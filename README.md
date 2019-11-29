@@ -3,7 +3,7 @@
 ## What is this all about?
 
 ## Data
-I'm going to use Russian Drama Corpus aka RusDraCor as the data source. The courpus is available on its [website](https://dracor.org/rus) and also in [this Github repository](https://github.com/dracor-org/rusdracor). It contains 210 plays of X authors.
+I'm going to use Russian Drama Corpus aka RusDraCor as the data source. The corpus is available on its [website](https://dracor.org/rus) and also in [this Github repository](https://github.com/dracor-org/rusdracor). It contains 210 plays of X authors.
 
 ## Action plan
 - [x] Create a repository for the project
